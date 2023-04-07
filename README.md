@@ -1,0 +1,2 @@
+# video-camera-based-optical-inspection-measurment-sorting-machine
+fasteners, auto parts, washer, nut, bolt,  screw, rivet,  sleeve, spacer, stud, pins, bearing cage, bullet, cartridge, cartridge case,  bullet jacket cups, insert, molding insert, electrical terminals,  electrical connector, cable gland, plastic, rubber ball, spacer, o ring, copper seam, spring, precious parts, aeronautical part, turning part
